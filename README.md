@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tximista64
-- 👀 I’m interested in pentesting
-- 🌱 I’m currently learning oscp
+- 👀 I’m interested in red/blue team cybersecurity
+- 🌱 I’m currently learning pentesting
 - 💞️ I’m looking to collaborate on blackarch
 - 📫 How to reach me Tximista64@protonmail.com
 
