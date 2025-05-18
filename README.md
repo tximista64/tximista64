@@ -1,10 +1,10 @@
-. 👋 Hi, I’m @tximista64
-. 👀 Interested in cybersecurity & sysadmin
-. 🌱 Currently learning Go and malware analysis
-. 💞️ Involved with CTF challenges and practical labs preparing HTB CDSA
-. ⛏️ GNU/Linux & Exegol & IDA addict
-. ⏲️ Experienced in SOC workflows, log analysis, and detection rules
-. 💻 My first computers were Commodore 64 and Atari 800XL
+- 👋 Hi, I’m @tximista64
+- 👀 Interested in cybersecurity & sysadmin
+- 🌱 Currently learning Go and malware analysis
+- 💞️ Involved with CTF challenges and practical labs preparing HTB CDSA
+- ⛏️ GNU/Linux & Exegol & IDA addict
+- ⏲️ Experienced in SOC workflows, log analysis, and detection rules
+- 💻 My first computers were Commodore 64 and Atari 800XL
 
 ---
 
