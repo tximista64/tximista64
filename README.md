@@ -14,5 +14,5 @@
 
 ---
 
-Ezinez eskinez egina  
+Ezinez ekinez egina  
 *"What seemed impossible was done through effort."*
