@@ -8,11 +8,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tximista64&layout=compact&theme=radical)
-
----
-
 Ezinez ekinez egina  
 *"What seemed impossible was done through effort."*
