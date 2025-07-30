@@ -2,7 +2,8 @@
 - 👀 Interested in cybersecurity & sysadmin
 - 🌱 Currently learning Go and malware analysis
 - 💞️ Involved with CTF challenges and practical labs preparing HTB CDSA
-- ⛏️ GNU/Linux addict
+- ⛏️ GNU/Linux proud user
+- 🧠 Obsidian addicted
 - ⏲️ Experienced in Sysadmin and forensics challenges
 - 💻 My first computers were Commodore 64 and Atari 800XL
 
