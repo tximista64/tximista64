@@ -2,6 +2,7 @@
 - 👀 Interested in cybersecurity & sysadmin
 - 🌱 Currently learning Godot and malware analysis
 - 💞️ Involved with CTF challenges and practical labs preparing HTB CJCA
+- Father of 2 develloping Steevie a starfish game for them
 - ⛏️ GNU/Linux proud user
 - 🧠 Obsidian addicted
 - ⏲️ Experienced in Sysadmin and forensics challenges
